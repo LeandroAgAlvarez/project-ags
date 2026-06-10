@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import { HeaderMain } from './components/HeaderMain';
 import { ContentHome } from './components/ContentHome';
 import { Matches } from './components/Matches';
 import { AboutMe } from './components/AboutMe';
-import {  Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
